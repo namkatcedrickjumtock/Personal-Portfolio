@@ -1,0 +1,12 @@
+{
+  "name": "cedrick-personal-portfolio",
+  "version": "0.0.1",
+  "description": "this is a personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "node ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Namkat Cedrick Jumtock",
+  "license": "ISC"
+}
