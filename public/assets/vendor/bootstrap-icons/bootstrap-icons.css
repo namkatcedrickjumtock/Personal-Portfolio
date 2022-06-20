@@ -72,7 +72,7 @@ url("./fonts/bootstrap-icons.woff?a74547b2f0863226942ff8ded57db345") format("wof
 .bi-arrow-return-right::before { content: "\f132"; }
 .bi-arrow-right-circle-fill::before { content: "\f133"; }
 .bi-arrow-right-circle::before { content: "\f134"; }
-.bi-arrow-right-short::before { content: "\f135"; }
+C::before { content: "\f135"; }
 .bi-arrow-right-square-fill::before { content: "\f136"; }
 .bi-arrow-right-square::before { content: "\f137"; }
 .bi-arrow-right::before { content: "\f138"; }
